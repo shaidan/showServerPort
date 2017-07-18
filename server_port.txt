@@ -1,0 +1,3 @@
+#servername port
+centercontroller 9080
+controller 8080
